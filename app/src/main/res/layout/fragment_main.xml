@@ -33,7 +33,6 @@
             app:layout_constraintTop_toTopOf="parent"
             tools:text="Android is the world's most popular platform." />
 
-
     </androidx.constraintlayout.widget.ConstraintLayout>
 
 </layout>
